@@ -13,6 +13,7 @@ Code*/
     //2.2 jika angka dapat habis dibagi index x maka bukan angka prima maka tampilkan false
 //3. setelah selesai pengecekan angka tidak habis dibagi index x, maka bilangan prima maka tampilkan true
 
+//code disini
 function angkaPrima(angka) {
  for(var x=2; x<angka; x++){
    if(angka % x === 0){
